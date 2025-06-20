@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "created": "2025-06-19T22:44:25Z",
+    "updated": "2025-06-19T22:44:25Z"
+  },
+  "registry": {
+    "did:key:z6MkfESMcgtyC74Au4AfjGo2X7w5BWkawL2xwTAtPv5SVYRm": {
+      "name": "witness.identifier.me"
+    }
+  }
+}
